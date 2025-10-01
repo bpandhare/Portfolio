@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This portfolio showcases my skills, projects, and contact information in an interactive and modern web interface.
 
 ## 🌐 Live Demo
-Check out the live portfolio here: [Portfolio Link](https://interactive-personal-nt3w.bolt.host/)
+Check out the live portfolio here: [Portfolio Link](https://portfolio-1z65.vercel.app/ )
 
 ## 🛠️ Technologies Used
 - **Frontend:** React.js, Tailwind CSS, Framer Motion
