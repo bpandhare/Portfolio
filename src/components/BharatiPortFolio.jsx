@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import "./Portfolio.css";
 
 export default function BharatiPortfolio() {
-  const PROFILE_PIC_URL = "/profile.jpg";
+  const PROFILE_PIC_URL = "/Profile.jpg";
   const RESUME_URL = "/ResumeBharti.pdf";
 
   const projects = [
